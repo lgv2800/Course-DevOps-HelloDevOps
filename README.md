@@ -1,5 +1,3 @@
-Course-DevOps-HelloDevOps
-
 # HelloDevOps
 
 Created a basic Maven project with Tomcat for my Complex Systems and DevOps course.
